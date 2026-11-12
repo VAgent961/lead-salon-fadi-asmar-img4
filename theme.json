@@ -1,0 +1,29 @@
+{
+  "siteName": "Salon Fadi Asmar",
+  "description": "Experience premium grooming and traditional craftsmanship at Salon Fadi Asmar. Your local barbershop in the heart of Chouf.",
+  "lang": "en",
+  "colors": {
+    "primary": "#1C1C1C",
+    "secondary": "#C5A059",
+    "accent": "#10B981",
+    "background": "#F9F9F9",
+    "surface": "#FFFFFF",
+    "ink": "#1C1C1C",
+    "muted": "#737373",
+    "dark": "#1C1C1C"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
